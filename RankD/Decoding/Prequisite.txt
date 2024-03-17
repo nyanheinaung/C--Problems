@@ -1,0 +1,8 @@
+Problem
+Given the string, extract the odd-numbered characters, arrange them in the order they were extracted, and output them in one line.
+
+Input Example
+AABACADAEA
+
+Output Example
+ABCDE

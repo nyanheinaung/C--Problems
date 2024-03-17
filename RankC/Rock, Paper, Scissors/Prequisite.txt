@@ -1,0 +1,16 @@
+Problem
+Output the number of "won" Rock, Paper, Scissor matches by Player 1 for any given number of matches.
+
+Input Example
+8
+G C
+P C
+C G
+G C
+G P
+P G
+C C
+C P
+
+Output Example
+4

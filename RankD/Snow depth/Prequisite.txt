@@ -1,0 +1,9 @@
+Problem
+A cm of snow accumulated on the first day and B cm on the second day.
+Please print the total height of the snow in cm.
+
+Input Example
+10 10
+
+Output Example
+20

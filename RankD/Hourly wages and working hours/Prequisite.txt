@@ -1,0 +1,9 @@
+Problem
+You will be given the hourly wage at your part-time job and the number of minutes you worked last month.
+Please print the amount of salary to be transferred on payday.
+
+Input Example
+2160 2000
+
+Output Example
+72000
