@@ -1,0 +1,21 @@
+Problem
+You need and order one of each of product numbers 1 through N.
+However, after receiving the products, we discovered that we had placed incorrect orders, including ordering unnecessary products and multiple orders for the same product.
+
+It can't be helped that you ordered the wrong product, but it's a problem if you don't receive the product you need.
+You decide to place an additional order and find out how many of the products you need have not yet arrived.
+
+You will be given a list of products that have arrived, so print out how many of the required products numbered 1 through N have not arrived.
+
+In the case of input example 1, products numbered 1 to 5 are required, but products numbered 3 and 5 have not arrived due to an order error. Two types are missing, so please output 2.
+
+Input Example
+5
+1
+4
+6
+2
+1
+
+Output Example
+2

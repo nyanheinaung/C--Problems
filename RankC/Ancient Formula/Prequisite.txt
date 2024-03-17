@@ -1,0 +1,12 @@
+Problem
+・All formulas are the addition of two or more integers.
+・The integers used are from 1 to 99, and the decimal system is used.
+・The number of consecutive "<" represents the tens place of the integer, and The number of consecutive "/" (slash) represents the 1's digit of the integer
+. "+" represents the addition sign.
+Based on this rule, create a program that interprets a mathematical formula written in Ancient notation and returns the result. 
+
+Input Example
+<<<<<<<<</////////+<<<<<<<<</////////
+
+Output Example
+198

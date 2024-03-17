@@ -1,0 +1,21 @@
+Problem
+Given the name of the dish you want to eat and the name of a dish listed on the menu, 
+write a program that outputs "Yes" if the menu matches the dish you want to eat, and "No" if it does not.
+A menu that matches the dish you want to eat means that the name of the dish you want to eat is included in the words on the menu.
+
+Input Example
+hamburg
+2
+cheese hamburg
+
+Output Example
+Yes
+
+
+Input Example
+apple
+4
+spicy pizza with pineapple
+
+Output Example
+No

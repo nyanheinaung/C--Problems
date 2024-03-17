@@ -1,0 +1,27 @@
+Problem
+You are a player of a certain game. In this game, the girlfriend IDs of users of paid items are made public, so I'm trying to find out who uses paid items the most times out of personal interest.
+
+Since the player ID is given as an integer, please output the player ID that appears the most.
+If there are multiple player IDs that appear the most, please output them all in ascending order .
+
+In the case of input example 1, there are two 1s, two 2s, and one 3, and the
+two IDs that appear most often are 1 and 2, so output "1 2".
+
+In the case of input example 2, there are 3 1s, 1 2, and 1 3, and the only ID that appears most often is 1,
+so output "1".
+
+Input Example
+5
+1 1 2 2 3
+
+Output Example
+1 2
+
+
+Input Example
+5
+1 2 3 1 1
+
+Output Example
+1
+

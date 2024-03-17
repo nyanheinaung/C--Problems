@@ -1,0 +1,26 @@
+Problem
+A company is about to elect two directors.
+The election of directors is carried out using the following two methods, each method in which he elects one director.
+
+・Each shareholder has the right to vote, and the person who receives the most votes becomes a director.
+・Each shareholder has the right to vote for the number of shares held, and the person who receives the most votes becomes a director. For
+
+Input Example
+4
+john 1
+john 5
+alex 40
+john 4
+
+Output Example
+john
+alex
+
+Input Example
+2
+smith 675
+smith 694
+
+Output Example
+smith
+smith

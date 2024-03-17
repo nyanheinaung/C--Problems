@@ -1,0 +1,16 @@
+Problem
+Given two integers, write a program that calculates the results without carry-over.
+Even if the first number is 0 as in input example 2, do not omit it and output 0.
+
+Input Example
+98 75
+
+Output Example
+63
+
+
+Input Example
+274 840
+
+Output Example
+014

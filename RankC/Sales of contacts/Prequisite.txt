@@ -1,0 +1,22 @@
+Problem
+You are a contact salesperson.
+Contacts come in degrees from 1 to N, with A_i (1 ≦ i ≦ N) of each in stock.
+
+In front of you, there are M customers lined up on the left and right who each need one pair of contact lenses of R_j and L_j (1≦j≦M).
+When you think about selling contacts to customers in the order they are lined up, skipping customers who cannot sell due to lack of inventory and selling contacts to customers in line after them, how many customers will you be able to sell to? 
+Create a program that asks if you can sell contacts.
+
+Input Example
+3
+2
+5
+6
+5
+1 2
+2 3
+1 3
+3 1
+2 2
+
+Output Example
+4
