@@ -1,0 +1,29 @@
+Problem
+Number of rows and columns of boards are given.
+Each board has a score.
+Knockdown from the topmost board.
+The knocked board will in turn knock down the directly below or left or right,
+which in turn trigger a chain reaction.
+For scoring, add individual scores of each knocked board 
+Find the maximum possible score.
+
+Input Example
+3 4
+1 1 2 1
+2 1 1 2
+2 1 1 2
+
+Output Example
+6
+
+
+Input Example
+4 4
+5 4 3 10
+1 3 0 6
+9 0 3 2
+3 5 1 3
+
+Output Example
+24
+

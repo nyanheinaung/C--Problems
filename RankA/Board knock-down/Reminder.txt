@@ -1,0 +1,5 @@
+bottom up version is simplified
+top down version is complex and takes time
+
+bottom up version works 100%
+top down version exceeds time limit, so dunno the result.(should work though)
