@@ -1,0 +1,20 @@
+Problem
+Given numbers of Goldfishes and catcher's durability
+Then each Goldfish's weight and beauty.
+If total weight equals or higher than the durability, the catcher wiil break.
+Find maximum possible beauty combined without breaking the catcher.
+
+
+
+Input Example
+4 10
+2 7
+7 1
+2 9
+4 7
+
+Output Example
+23
+
+
+
