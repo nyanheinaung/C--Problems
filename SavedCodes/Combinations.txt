@@ -1,0 +1,17 @@
+int[] nums = { 1, 2, 3 };
+
+int n = nums.Length;
+
+// Total number of combinations = 2^n
+int totalCombinations = 1 << n; 
+
+for (int i = 1; i < totalCombinations; i++)
+{
+	for (int j = 0; j < n; j++)
+	{
+		if ((i & (1 << j)) != 0)
+		{
+			Console.Write(nums[j]);
+		}
+	}
+}
