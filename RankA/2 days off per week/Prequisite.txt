@@ -1,0 +1,24 @@
+Problem
+A period of 2 or more days off per week refers to a period in which 
+one has 2 or more days off in any consecutive 7-day period.
+
+You will be given the working schedule. 
+Output the maximum number of days with two or more days off per week .
+
+1 will be working day
+0 will be day off
+
+Input Example
+14
+1 1 1 1 1 0 0 1 1 1 1 1 0 0
+
+Output Example
+14
+
+
+Input Example
+9
+1 0 1 1 1 1 1 1 0
+
+Output Example
+0
