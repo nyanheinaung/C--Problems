@@ -1,0 +1,34 @@
+Problem
+Types of Gerbera are given.
+There will be 2 Gerberas for each type.
+They are mixed up.
+By swapping them, one at a time, 
+rearrange them into two groups of Gerbera with ascending order.
+Find the minimum swaps required.
+
+Input Example 1
+4
+4
+4
+3
+3
+2
+2
+1
+1
+
+Output Example 1
+18
+
+Input Example 2
+3
+2
+1
+1
+2
+3
+3
+
+Output Example 2
+3
+

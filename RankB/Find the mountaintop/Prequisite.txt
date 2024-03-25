@@ -1,0 +1,20 @@
+Problem
+Size of a square map with heights will be given.
+Find all the mountain tops in descending order.
+If a point is higher than the adjacent points in 4 direction,
+it is considered mountain top.
+
+Input Example
+4
+50 20 50 20
+20 50 20 50
+40 20 40 20
+30 30 30 30
+
+Output Example
+50
+50
+50
+50
+40
+40

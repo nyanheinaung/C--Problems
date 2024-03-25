@@ -1,0 +1,15 @@
+Problem
+Bomb grid is given.
+A bomb will spread it's explosion blast to it's corresponding row and column.
+Calculate how many squares the blast will spread if you ignite all the bombs on the field at once.
+
+Input Example
+5 8
+.#.#....
+........
+........
+........
+.....#..
+
+Output Example
+25

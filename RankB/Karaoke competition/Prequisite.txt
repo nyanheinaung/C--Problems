@@ -1,0 +1,27 @@
+Problem
+Number of competitors and the key points are given.
+Correct pitches and the sung pitches are given.
+Each competitor will be given 100 points at first.
+No point will be deducted if the pitch difference is within 5db.
+1 point will be deducted if the pitch difference is within 10db.
+2 points will be deducted if the pitch difference is within 20db.
+3 points will be deducted if the pitch difference is within 30db.
+5 points will be deducted if the pitch difference is above 30db.
+
+Find the maximum score of the winner.
+
+
+Input Example
+2 3
+400
+410
+420
+400
+400
+400
+300
+300
+300
+
+Output Example
+97

@@ -1,0 +1,44 @@
+Problem
+This game is played with N players.
+At the beginning of the game, each player is dealt a card hand. 
+Each card hand consists of 3 numbers, either 0 or 1.
+All players have to transform their card hands to the common deck.
+Each common deck have an alphabet, either a, b or c and 3 numbers, either 0 or 1.
+Transform the curent deck according to the following rule.
+
+・When  a, if there is even one 1, generate 1, otherwise generate 0.
+・When b, if there is even one 0, generate 0, otherwise generate 1. Generate
+・When c, generate 1 if the numbers are different, and generate 0 if the numbers are the same.
+
+When all the cards have been turned over, 
+the player with the highest final integer in their hand in decimal notation wins.
+For example, if the final hands of players 1 and 2 are 101 and 011, respectively, 
+player 1 wins because 101 > 11 in decimal notation.
+
+Output the winner.
+If there are more than 1 winner, output them all in ascending order.
+
+Input Example
+3 3
+1 0 1
+1 1 1
+0 0 1
+a 1 0 0
+b 1 1 0
+c 0 0 1
+
+Output Example
+2
+
+Input Example
+3 2
+0 1 0
+1 0 1
+1 0 0
+b 0 0 0
+b 0 0 0
+
+Output Example
+1
+2
+3
