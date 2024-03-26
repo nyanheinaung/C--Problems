@@ -1,0 +1,25 @@
+Problem
+Given a grid of RGB pixels, count the respective groups, 
+and output the numbers of red, green and blue.
+
+
+Input Example
+5 5
+RRRGG
+RRRGG
+BBBBB
+RRGGG
+GRGGG
+
+Output Example
+2 3 1
+
+Input Example
+3 2
+RG
+GB
+BR
+
+Output Example
+2 2 2
+
