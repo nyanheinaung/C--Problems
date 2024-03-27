@@ -1,0 +1,27 @@
+Problem
+Given types of sweets and total allowance,
+try to buy as many types of sweets as possible.
+After that, try to minimize the amount of change.
+Output the change.
+
+Input Example 1
+3 300
+150
+120
+130
+
+Output Example 1
+20
+
+Input Example 2
+4 1000
+200
+20
+500
+60
+
+Output Example 2
+220
+
+
+
