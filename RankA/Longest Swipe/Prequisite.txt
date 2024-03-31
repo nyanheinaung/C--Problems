@@ -1,0 +1,17 @@
+Problem
+Given a grid of numbers, find the length of the longest swipe of consecutive numbers, 
+whether ascending or descending.
+The swipes can be horizontal, vertical or diagonal.
+
+Input Example
+4
+1314
+1213
+2134
+3124
+
+Output Example
+4
+
+
+
