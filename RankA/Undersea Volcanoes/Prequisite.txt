@@ -1,0 +1,24 @@
+Problem
+There are N submarine volcanoes in a given ocean area. 
+When an undersea volcano erupts, the lava cools and hardens, forming an island in a circle with radius R centered at the location of the volcano. 
+When multiple submarine volcanoes erupt at the same time, the islands formed by the submarine volcanoes that are less than 2R apart from each other will combine to form a single island.
+
+Find the number of islands that would form if all the submarine volcanoes erupted at the same time.
+
+The location of the submarine volcano is given in (x, y) coordinates. 
+The x and y coordinates of a given island are given as integers greater than or equal to 0, but please note that the range of the island created by the eruption may extend to the negative x and y coordinates.
+
+
+
+Input Example
+4 10
+2 7
+7 1
+2 9
+4 7
+
+Output Example
+23
+
+
+
