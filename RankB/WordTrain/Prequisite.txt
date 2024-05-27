@@ -1,0 +1,48 @@
+Problem
+Player count, Word List and Play Words are given.
+Rules
+1. The Play word must be in the Word List
+2. The First Alphabet must be Last Alphabet of the previous Play Word
+3. Previously used words can't be used again
+4. Can't use a word which ends in 'z'
+If any rules is broken, the player is forfeited. 
+
+Print out the remaining number of Players and player list in ascending order
+
+
+
+Input Example 1
+3 6 7
+a
+aloha
+app
+az
+paiza
+warp
+app
+paiza
+a
+aloha
+az
+warp
+paiza
+
+Output Example 1
+1
+3
+
+Input Example 2
+4 4 4
+abacus
+banana
+candy
+yankee
+banana
+candies
+candies
+yankee
+
+Output Example 2
+2
+1
+4
